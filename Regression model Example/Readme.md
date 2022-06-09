@@ -6,6 +6,4 @@ Regression model Example
 
 ![Rplot03](https://user-images.githubusercontent.com/95676591/172794938-4fb654b7-ea5d-4883-9b27-0414dca1f426.png)
 
-![Rplot](https://user-images.githubusercontent.com/95676591/172795657-128b7665-4c7e-4d45-8248-32deaadaf0e4.png)
-
 ![Rplot04](https://user-images.githubusercontent.com/95676591/172795668-ec44c913-62d1-4a06-abee-ed8b1737d825.png)
