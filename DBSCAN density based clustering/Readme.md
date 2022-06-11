@@ -73,3 +73,6 @@ The function predict.dbscan(object, data, newdata) [in fpc package] can be used 
         eps: parameter eps
         MinPts: parameter MinPts
     The result of the function dbscan::dbscan() is an integer vector with cluster assignments. Zero indicates noise points.
+    
+    
+    Jamal hussani shah 
