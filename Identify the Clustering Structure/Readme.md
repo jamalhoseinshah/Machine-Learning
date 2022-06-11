@@ -1,8 +1,10 @@
-#  Identify the Clustering Structure project is created by jamal hussain shah 
+#  Identify the Clustering Structure project   
+
+This projected is created by jamal hussain shah in June 2022.
 
 Several methods to extract a clustering from the order returned by OPTICS are implemented:
 
-    extractDBSCAN() extracts a clustering from an OPTICS ordering that is similar to what DBSCAN would produce with an eps set to eps_cl (see Ankerst et al, 1999). The only difference to a DBSCAN clustering is that OPTICS is not able to assign some border points and reports them instead as noise.
+extractDBSCAN() extracts a clustering from an OPTICS ordering that is similar to what DBSCAN would produce with an eps set to eps_cl (see Ankerst et al, 1999). The only difference to a DBSCAN clustering is that OPTICS is not able to assign some border points and reports them instead as noise.
  
 ![Rplot](https://user-images.githubusercontent.com/95676591/173177638-9c82d934-6c53-45f1-896b-03cddca0c4b7.png)
 ![Rplot01](https://user-images.githubusercontent.com/95676591/173177642-4fc6fa41-2dc3-4c67-afcd-c7ceb3acb9a4.png)
