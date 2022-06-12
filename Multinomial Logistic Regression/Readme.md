@@ -27,3 +27,6 @@ Perfect prediction means that only one value of a predictor variable is associat
 Empty cells or small cells: You should check for empty or small cells by doing a cross-tabulation between categorical predictors and the outcome variable. If a cell has very few cases (a small cell), the model may become unstable or it might not even run at all.
 
 ![Multinomial Logistic Regression](https://user-images.githubusercontent.com/95676591/173225976-cd11dbee-88d6-434b-83e4-f19add7c4830.png)
+
+
+Jamal Hussain Shah
