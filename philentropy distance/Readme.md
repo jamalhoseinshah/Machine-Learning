@@ -1,0 +1,5 @@
+The distance() function implemented in philentropy is able to compute 46 different distances/similarities between probability density functions.
+
+As you can see, although the distance() function is quite fast, the internal checks cause it to be 2x slower than the base dist() function (for the euclidean example). Nevertheless, in case you need to implement a faster version of the corresponding distance measure you can type philentropy:: and then TAB allowing you to select the base distance computation functions (written in C++), e.g. philentropy::euclidean() which is almost 3x faster than the base dist() function.
+
+The advantage of distance() is that it implements 46 distance measures based on base C++ functions that can be accessed individually by typing philentropy:: and then TAB. In future versions of philentropy I will optimize the distance() function so that internal checks for data type correctness and correct input data will take less termination time than the base dist() function.
