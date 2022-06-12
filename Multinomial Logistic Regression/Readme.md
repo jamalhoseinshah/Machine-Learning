@@ -29,4 +29,4 @@ Empty cells or small cells: You should check for empty or small cells by doing a
 ![Multinomial Logistic Regression](https://user-images.githubusercontent.com/95676591/173225976-cd11dbee-88d6-434b-83e4-f19add7c4830.png)
 
 
-Jamal Hussain Shah
+Created by Mr. Jamal Hussain Shah
