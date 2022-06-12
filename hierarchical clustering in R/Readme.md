@@ -4,9 +4,9 @@ Data Preparation
 
 To perform a cluster analysis in R, generally, the data should be prepared as follows:
 
-    Rows are observations (individuals) and columns are variables
-    Any missing value in the data must be removed or estimated.
-    The data must be standardized (i.e., scaled) to make variables comparable. Recall that, standardization consists of transforming the variables such that they have mean zero and standard deviation one.
+Rows are observations (individuals) and columns are variables
+Any missing value in the data must be removed or estimated.
+The data must be standardized (i.e., scaled) to make variables comparable. Recall that, standardization consists of transforming the variables such that they have mean zero and standard deviation one.
 
 Here, we’ll use the built-in R dataset iris, which contains 3 classes of 50 instances each, where each class refers to a type of iris plant.
 
