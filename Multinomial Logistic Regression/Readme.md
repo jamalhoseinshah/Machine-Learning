@@ -25,3 +25,5 @@ Complete or quasi-complete separation: Complete separation means that the outcom
 Perfect prediction means that only one value of a predictor variable is associated with only one value of the response variable. But you can tell from the output of the regression coefficients that something is wrong. You can then do a two-way tabulation of the outcome variable with the problematic variable to confirm this and then rerun the model without the problematic variable.
 
 Empty cells or small cells: You should check for empty or small cells by doing a cross-tabulation between categorical predictors and the outcome variable. If a cell has very few cases (a small cell), the model may become unstable or it might not even run at all.
+
+![Multinomial Logistic Regression](https://user-images.githubusercontent.com/95676591/173225976-cd11dbee-88d6-434b-83e4-f19add7c4830.png)
