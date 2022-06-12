@@ -1,4 +1,4 @@
-# income and heart data linear regression project. 
+# Linear regression project for Income and Heart Data.
 
 This projected is created by jamal hussain shah 
 
@@ -9,10 +9,12 @@ Essential steps:
 
 Linear regression is a regression model that uses a straight line to describe the relationship between variables. It finds the line of best fit through your data by searching for the value of the regression coefficient(s) that minimizes the total error of the model.
 
-There are two main types of linear regression:
+There are two main types of linear regression: 
 
     Simple linear regression uses only one independent variable
     Multiple linear regression uses two or more independent variables
+    
+    
 ![Rplot](https://user-images.githubusercontent.com/95676591/173228561-eef80407-3149-402b-8ce9-c74918879f54.png)
 ![Rplot01](https://user-images.githubusercontent.com/95676591/173228564-eb629be1-dd57-4c7a-9d73-08d7956421bc.png)
 ![Rplot02](https://user-images.githubusercontent.com/95676591/173228572-b7630b8b-64b2-4438-a60c-fec69e7e256b.png)
