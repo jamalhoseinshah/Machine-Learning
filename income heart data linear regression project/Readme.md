@@ -3,8 +3,10 @@
 This projected is created by jamal hussain shah 
 
 Essential steps:
-1- import both income and heart data in your Rstudio from source path location in your pc. 
+1- import both income and heart data in your Rstudio from source path location in your pc.
+
 2- Analayze every code for inspect every aspect of linear regression of given data by using Rstudio. 
+
 3- Attached every graph as given below during procedure. 
 
 Linear regression is a regression model that uses a straight line to describe the relationship between variables. It finds the line of best fit through your data by searching for the value of the regression coefficient(s) that minimizes the total error of the model.
