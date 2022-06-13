@@ -1,11 +1,11 @@
 # Machine-Learning
 
-In my educational journey, I have had hands-on experience with the following topics:
-Column1
+During my education, I have hands on experience of the following assignments and projects. These cover all the topics listed below and are available on my github account.
+
 
 PHASE - I
 
-• Regression Analysis
+• Regression Analysis                    
 
 • Linear Model
 
