@@ -1,7 +1,7 @@
 # Machine-Learning
 
 In my educational journey, I have had hands-on experience with the following topics:
-
+Column1
 PHASE - I
 
 • Regression Analysis
@@ -25,5 +25,7 @@ PHASE - I
 • DBScan Clustering
 • Performance Evaluation Metrics
 • Cluster Visualizations
+
+
 
 
