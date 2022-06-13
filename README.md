@@ -3,7 +3,7 @@
 In my educational journey, I have had hands-on experience with the following topics:
 Column1
 
-# PHASE - I
+PHASE - I
 
 • Regression Analysis
 
@@ -23,7 +23,8 @@ Column1
 
 • Model Evaluation techniques 
 
-# PHASE - II 
+
+PHASE - II 
 
 • Clustering
 
