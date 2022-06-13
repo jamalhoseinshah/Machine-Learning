@@ -13,9 +13,11 @@ Installation
 4-dendrogram - pip install dendrogram
 
 Data Download 
+
 Download csv file from github source. 'Mall_Customers.csv
 
 Code review
+
 I have attached file named as  Hierarchical Clustering Algorithm Works.ipynb for guidance of all interested to learn. 
 
 CONCLUSION:
