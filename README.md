@@ -5,11 +5,8 @@ In my educational journey, I have had hands-on experience with the following top
 PHASE - I
 
 • Regression Analysis
-
 • Linear Model
-
 • Classification 
-
 • Logistic Regression 
 • Decision Tree
 • Random Forest
