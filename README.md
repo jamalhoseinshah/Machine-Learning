@@ -2,29 +2,50 @@
 
 In my educational journey, I have had hands-on experience with the following topics:
 Column1
-PHASE - I
+
+# PHASE - I
 
 • Regression Analysis
+
 • Linear Model
+
 • Classification 
-• Logistic Regression 
+
+• Logistic Regression
+
 • Decision Tree
+
 • Random Forest
-• Naive Bayes Classifier 
+
+• Naive Bayes Classifier
+
 • Neural Network 
+
 • Model Evaluation techniques 
 
-PHASE - I 
-• Clustering?
+# PHASE - II 
+
+• Clustering
+
 • Examples of Clustering
+
 • Types of Clustering 
+
 • Similarity Measures
+
 • Types of Clustering Algorithms
+
 • Hierarchal Clustering 
+
 • K Mean Clustering 
+
 • DBScan Clustering
+
 • Performance Evaluation Metrics
+
 • Cluster Visualizations
+ 
+
 
 
 
