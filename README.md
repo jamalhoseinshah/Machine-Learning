@@ -1,6 +1,6 @@
 # Machine-Learning
 
-During my education, I have hands on experience of the following assignments and projects. These cover all the topics listed below and are available on my github account.
+During my education, I have hands on experience of above assignments and projects. These cover all the topics listed below and are available on my github account.
 
 
 PHASE - I
