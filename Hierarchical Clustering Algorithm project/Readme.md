@@ -3,9 +3,13 @@
 # Hierarchical Clustering Algorithm 
 
 Installation 
+
 1-Numpy - pip install numpy
+
 2-pandas - pip install pandas
+
 3-scipy - pip install scikit-learn
+
 4-dendrogram - pip install dendrogram
 
 Data Download 
@@ -32,4 +36,5 @@ For example predicting the email is spam or not, using the historical email data
 ![p2](https://user-images.githubusercontent.com/95676591/173305696-5958fce4-e403-431f-bc9c-55d62be34a00.png)
 
 Jamal Hussain shah 
+
 Cyber Security Analyst.
