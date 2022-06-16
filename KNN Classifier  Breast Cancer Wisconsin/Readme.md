@@ -49,7 +49,7 @@ kNN or k-Nearest Neighbours Classifier is a very simple and easy to understand m
 
 1. Introduction to k Nearest Neighbours algorithm
 
-Table of Contents
+ 
 
 In machine learning, k Nearest Neighbours or kNN is the simplest of all machine learning algorithms. It is a non-parametric algorithm used for classification and regression tasks. Non-parametric means there is no assumption required for data distribution. So, kNN does not require any underlying assumption to be made. In both classification and regression tasks, the input consists of the k closest training examples in the feature space. The output depends upon whether kNN is used for classification or regression purposes.
 
@@ -63,7 +63,7 @@ In kNN, the neighbours are taken from a set of objects for which the class or th
 
 2. k Nearest Neighbours intuition
 
-Table of Contents
+ 
 
 The kNN algorithm intuition is very simple to understand. It simply calculates the distance between a sample data point and all the other training data points. The distance can be Euclidean distance or Manhattan distance. Then, it selects the k nearest data points where k can be any integer. Finally, it assigns the sample data point to the class to which the majority of the k data points belong.
 
@@ -77,7 +77,6 @@ In the final step of the kNN algorithm, we assign the new data point X to the ma
 
 3. How to decide the number of neighbours in kNN
 
-Table of Contents
 
 While building the kNN classifier model, one question that come to my mind is what should be the value of nearest neighbours (k) that yields highest accuracy. This is a very important question because the classification accuracy depends upon our choice of k.
 
@@ -87,7 +86,6 @@ The data scientists choose an odd value of k if the number of classes is even. W
 
 4. Eager learners vs lazy learners
 
-Table of Contents
 
 Eager learners mean when giving training data points, we will construct a generalized model before performing prediction on given new points to classify. We can think of such learners as being ready, active and eager to classify new data points.
 
