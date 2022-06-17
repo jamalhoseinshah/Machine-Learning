@@ -4,13 +4,13 @@ This project is created by jamal hussain shah.
 
  In this example, I will walk you through the process of building a model for the geoscience dataset. This dataset consists of 40 variables and 2,000 observations. This tutorial has four parts:
 
-* 1. Model building
+1. Model building
 
-* 2. Model evaluation metrics
+2. Model evaluation metrics
 
-* 3. Model evaluation discussion
+3. Model evaluation discussion
 
-* 4. Conclusion
+4. Conclusion
 
 * Part.1: Exploratory Data Analysis, 
 * Part.2: Build Model & Validate, 
