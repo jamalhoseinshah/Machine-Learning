@@ -37,6 +37,7 @@ array—for generating a matrix
 dot—for multiplying matrices
 random—for generating random numbers. Note that we’ll seed the random numbers to ensure their efficient distribution.
 
+![pic1](https://user-images.githubusercontent.com/95676591/174556888-c5fb1264-57b1-4454-bb10-b4b0073322c6.png)
 
 We managed to create a simple neural network.
 
