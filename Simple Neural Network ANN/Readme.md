@@ -4,11 +4,11 @@ Neural networks (NN), also called artificial neural networks (ANN) are a subset 
 
 Basically, an ANN comprises of the following components:
 
-    An input layer that receives data and pass it on
-    A hidden layer
-    An output layer
-    Weights between the layers
-    A deliberate activation function for every hidden layer. In this simple neural network Python tutorial, we’ll employ the Sigmoid activation function.
+An input layer that receives data and pass it on
+A hidden layer
+An output layer
+Weights between the layers
+A deliberate activation function for every hidden layer. In this simple neural network Python tutorial, we’ll employ the Sigmoid activation function.
 
 There are several types of neural networks. In this project, we are going to create the feed-forward or perception neural networks. This type of ANN relays data directly from the front to the back.
 
@@ -32,10 +32,10 @@ Even though we’ll not use a neural network library for this simple neural netw
 
 The library comes with the following four important methods:
 
-    exp—for generating the natural exponential
-    array—for generating a matrix
-    dot—for multiplying matrices
-    random—for generating random numbers. Note that we’ll seed the random numbers to ensure their efficient distribution.
+exp—for generating the natural exponential
+array—for generating a matrix
+dot—for multiplying matrices
+random—for generating random numbers. Note that we’ll seed the random numbers to ensure their efficient distribution.
 
 
 We managed to create a simple neural network.
