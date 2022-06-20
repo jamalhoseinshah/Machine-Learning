@@ -50,3 +50,5 @@ You remember that the correct answer we wanted was 1?
 Then, that’s very close—considering that the Sigmoid function outputs values between 0 and 1.
 
 Of course, we only used one neuron network to carry out the simple task. What if we connected several thousands of these artificial neural networks together? Could we possibly mimic how the human mind works 100%?
+
+Jamal Hussain Shah
